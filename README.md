@@ -1,5 +1,5 @@
 # Nice to meet you
-Your are the ![Visitor Count](https://profile-counter.glitch.me/loong2525/count.svg) visitor.
+* You can also visit me on [cnblog](https://www.cnblogs.com/loong2525)
 
 ## Hi there,Look at me 👋
 
