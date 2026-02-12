@@ -10,12 +10,6 @@
 * 💬 Ask me about QQ: 2489126849 . I'm active on QQ ,often.
 * 📫 2489126849@qq.com ,my email also can reach me.
 
-# 
-![](https://github-readme-stats.vercel.app/api?username=loong2525&show_icons=true&theme=transparent)
 
-#
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loong2525&layout=compact&theme=tokyonight)
-#
-
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loong2525)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loong2525)](https://github.com/anuraghazra/github-readme-stats)
