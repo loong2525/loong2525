@@ -120,20 +120,21 @@ Sunday                   17 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        4 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   39.25 % 
-Markdown                 4 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   37.93 % 
-Other                    2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-Objective-C              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Markdown                 5 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   39.16 % 
+C                        4 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   34.24 % 
+Other                    3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
+Python                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Objective-C              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 16 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 5 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/07/2026 02:21:15 UTC
+ Last Updated on 25/07/2026 02:14:32 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
