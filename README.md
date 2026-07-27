@@ -120,21 +120,21 @@ Sunday                   17 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 19 mins       ███████████░░░░░░░░░░░░░░   43.04 % 
-C                        5 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   41.00 % 
-Other                    1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-Python                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Objective-C              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Markdown                 5 hrs 5 mins        ███████████░░░░░░░░░░░░░░   44.50 % 
+C                        4 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   41.42 % 
+Other                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Python                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Objective-C              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 25 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/07/2026 02:25:36 UTC
+ Last Updated on 27/07/2026 02:33:32 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
