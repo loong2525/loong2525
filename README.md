@@ -93,6 +93,8 @@
 <tr><td> 
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%207%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -120,21 +122,43 @@ Sunday                   17 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 5 mins        ███████████░░░░░░░░░░░░░░   44.50 % 
-C                        4 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   41.42 % 
-Other                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Python                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Objective-C              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Markdown                 5 hrs 45 mins       █████████████░░░░░░░░░░░░   53.50 % 
+C                        3 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   35.05 % 
+Python                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Objective-C              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 25 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 46 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 46 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 8 hrs 52 mins (82.43%)
+
+✍️ 2,910 lines written by AI, 595 lines written by hand (83.02% AI-written)
+
+🔤 255,505,445 Input Tokens, 960,442 Output Tokens
+
+💵 $704.04 Estimated AI Cost This Week
+
+🧠 23 AI Sessions, 177 AI Prompts
+
+Deepseek                 3,018 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 83.02% of written lines came from AI
+📚 Verbose Prompter — average 6,060 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 18.02% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/07/2026 02:33:32 UTC
+ Last Updated on 28/07/2026 02:08:05 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
