@@ -122,41 +122,40 @@ Sunday                   17 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 17 mins       ████████████████████████░   96.81 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Markdown                 45 mins             ███████████████████████░░   93.63 % 
+Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  48 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  48 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 6 mins (88.83%)
+⏱ AI Coding Time: 34 mins (71.94%)
 
-✍️ 60 lines written by AI, 491 lines written by hand (10.89% AI-written)
+✍️ 0 lines written by AI, 68 lines written by hand (0.0% AI-written)
 
-🔤 42,717,822 Input Tokens, 281,384 Output Tokens
+🔤 10,290,485 Input Tokens, 39,177 Output Tokens
 
-💵 $55.50 Estimated AI Cost This Week
+💵 $31.46 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 91 AI Prompts
+🧠 3 AI Sessions, 25 AI Prompts
 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 10.89% of written lines came from AI
-📚 Verbose Prompter — average 7,266 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🔍 Hands-On Reviewer — 90.11% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 7,426 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/08/2026 02:24:34 UTC
+ Last Updated on 03/08/2026 02:27:06 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
